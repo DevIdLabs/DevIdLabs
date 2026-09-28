@@ -23,9 +23,10 @@ I'm an IT Engineer who loves building scalable software from the database layer 
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevIdLabs&show_icons=true&title_color=5caca4&icon_color=5caca4&text_color=c9d1d9&bg_color=0D1117&hide_border=true&v=2" height="165" alt="github stats" />
-  <img src="https://streak-stats.demolab.com?user=DevIdLabs&locale=en&mode=daily&ring=5caca4&fire=5caca4&currStreakNum=5caca4&sideNums=5caca4&currStreakLabel=5caca4&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117&hide_border=true&border_radius=5&v=2" height="165" alt="streak graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevIdLabs&show_icons=true&title_color=5caca4&icon_color=5caca4&text_color=c9d1d9&bg_color=0D1117&hide_border=true" height="165" alt="github stats" />
+  <img src="https://streak-stats.demolab.com?user=DevIdLabs&locale=en&mode=daily&ring=5caca4&fire=5caca4&currStreakNum=5caca4&sideNums=5caca4&currStreakLabel=5caca4&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117&hide_border=true&border_radius=5" height="165" alt="streak graph" />
 </div>
+
 
 
 <!-- Arcade Game -->
