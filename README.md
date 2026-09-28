@@ -7,7 +7,7 @@
 
 
 <!-- AQUÍ VA TU FOTO (Borra el texto largo y pon tu link arrastrando la foto) -->
-<img align="right" height="150" src="[https://github.com/user-attachments/assets/](https://github.com/user-attachments/assets/bc78dbbe-9a6e-40cf-b92c-c12788424a5e)"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/bc78dbbe-9a6e-40cf-b92c-c12788424a5e"  />
 
 ### 👨‍💻 About Me
 I'm an IT Engineer who loves building scalable software from the database layer all the way up to the pixel-perfect UI. I have a deep passion for understanding how things work under the hood—whether it's an enterprise database or the physical hardware components of a machine.
