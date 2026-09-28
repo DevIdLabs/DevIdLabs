@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=5caca4&fontAlign=50&fontAlignY=50&color=transparent&text=Hi%20%F0%9F%91%8B%2C%20I'm%20David%20Pincha" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=5caca4&fontAlign=50&fontAlignY=50&color=fbfbfb&text=Hi%20%F0%9F%91%8B%2C%20I'm%20David%20Pincha" width="100%" />
 
-<br/>
 
 
 <h3 align="center">IT Engineer | Full-Stack Developer | UI/UX Enthusiast</h3>
