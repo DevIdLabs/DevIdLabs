@@ -17,7 +17,6 @@ I'm an IT Engineer who loves building scalable software from the database layer 
 
 - 🚀 **What I do:** I develop robust enterprise applications. Recently, I've integrated **Stripe payment gateways**, built automated **AI translation pipelines**, managed **Klaviyo notification systems**, and optimized PostgreSQL databases for complex statistics and performance.
 - 🎨 **My Philosophy:** A powerful backend deserves an exceptional user experience. I always keep UI/UX at the forefront of my development process.
-- ⚡ **Outside of Code:** I'm a hardware enthusiast who loves seeing the "heart" of machines. When I'm not coding, you'll find me sketching and drawing, hitting the gym to stay healthy, or taking apart hardware with a great cup of coffee.
 - 📫 **Reach me at:** cpincha9@gmail.com
 
 <br clear="both"/>
