@@ -5,8 +5,9 @@
 
 ---
 
+
 <!-- AQUÍ VA TU FOTO (Borra el texto largo y pon tu link arrastrando la foto) -->
-<img align="right" height="150" src="https://github.com/user-attachments/assets/3f4fbbb3-0950-491d-a3bc-33f50cb6fb5e"  />
+<img align="right" height="150" src="[https://github.com/user-attachments/assets/](https://github.com/user-attachments/assets/bc78dbbe-9a6e-40cf-b92c-c12788424a5e)"  />
 
 ### 👨‍💻 About Me
 I'm an IT Engineer who loves building scalable software from the database layer all the way up to the pixel-perfect UI. I have a deep passion for understanding how things work under the hood—whether it's an enterprise database or the physical hardware components of a machine.
@@ -23,8 +24,8 @@ I'm an IT Engineer who loves building scalable software from the database layer 
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevIdLabs&show_icons=true&title_color=5caca4&icon_color=5caca4&text_color=c9d1d9&bg_color=0D1117&hide_border=true" height="165" alt="github stats" />
-  <img src="https://streak-stats.demolab.com?user=DevIdLabs&locale=en&mode=daily&ring=5caca4&fire=5caca4&currStreakNum=5caca4&sideNums=5caca4&currStreakLabel=5caca4&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117&hide_border=true&border_radius=5" height="165" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=DevIdLabs&locale=en&mode=daily&ring=5caca4&fire=5caca4&currStreakNum=5caca4&sideNums=5caca4&currStreakLabel=5caca4&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117&hide_border=true&border_radius=5&v=3" height="165" alt="streak graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=DevIdLabs&layout=compact&title_color=5caca4&text_color=c9d1d9&bg_color=0D1117&hide_border=true&v=3" height="165" alt="languages graph" />
 </div>
 
 
