@@ -9,10 +9,11 @@
 
 ---
 
-
-
-
 ### 👨‍💻 About Me
+
+<!-- La imagen a la derecha con 'hspace' creando un escudo invisible de 30px -->
+<img align="right" width="300" hspace="30" vspace="10" src="https://github.com/user-attachments/assets/bc78dbbe-9a6e-40cf-b92c-c12788424a5e" alt="David Pincha" />
+
 I'm an IT Engineer who loves building scalable software from the database layer all the way up to the pixel-perfect UI. I have a deep passion for understanding how things work under the hood—whether it's an enterprise database or the physical hardware components of a machine.
 
 - 🚀 **What I do:** I develop robust enterprise applications. Recently, I've integrated **Stripe payment gateways**, built automated **AI translation pipelines**, managed **Klaviyo notification systems**, and optimized PostgreSQL databases for complex statistics and performance.
@@ -20,8 +21,7 @@ I'm an IT Engineer who loves building scalable software from the database layer 
 - ⚡ **Outside of Code:** I'm a hardware enthusiast who loves seeing the "heart" of machines. When I'm not coding, you'll find me sketching and drawing, hitting the gym to stay healthy, or taking apart hardware with a great cup of coffee.
 - 📫 **Reach me at:** cpincha9@gmail.com
 
-<!-- AQUÍ VA TU FOTO (Borra el texto largo y pon tu link arrastrando la foto) -->
-<img align="right" height="150" src="https://github.com/user-attachments/assets/bc78dbbe-9a6e-40cf-b92c-c12788424a5e"  />
+<br clear="both"/>
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
