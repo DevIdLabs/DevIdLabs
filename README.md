@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=eedcbe&fontAlign=50&fontAlignY=50&color=5eaba4&text=Hi,%20I'm%20David%20Pincha" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=50&color=5eaba4&text=Hi,%20I'm%20David%20Pincha" width="100%" />
 
 
 
