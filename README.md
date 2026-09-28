@@ -2,10 +2,6 @@
 
 <br/>
 
-<!-- TU FOTO CENTRADA Y MÁS GRANDE -->
-<div align="center">
-  <img height="250" src="https://github.com/user-attachments/assets/bc78dbbe-9a6e-40cf-b92c-c12788424a5e" alt="David Pincha" />
-</div>
 
 <h3 align="center">IT Engineer | Full-Stack Developer | UI/UX Enthusiast</h3>
 <p align="center">📍 Quito, Ecuador 🇪🇨 | 🌍 Open to international opportunities</p>
@@ -23,6 +19,9 @@ I'm an IT Engineer who loves building scalable software from the database layer 
 - 🎨 **My Philosophy:** A powerful backend deserves an exceptional user experience. I always keep UI/UX at the forefront of my development process.
 - ⚡ **Outside of Code:** I'm a hardware enthusiast who loves seeing the "heart" of machines. When I'm not coding, you'll find me sketching and drawing, hitting the gym to stay healthy, or taking apart hardware with a great cup of coffee.
 - 📫 **Reach me at:** cpincha9@gmail.com
+
+<!-- AQUÍ VA TU FOTO (Borra el texto largo y pon tu link arrastrando la foto) -->
+<img align="right" height="150" src="https://github.com/user-attachments/assets/bc78dbbe-9a6e-40cf-b92c-c12788424a5e"  />
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
