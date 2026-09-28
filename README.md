@@ -1,10 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=cobalt&text=Hi%20%F0%9F%91%8B%2C%20I'm%20David%20Pincha" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=5caca4&fontAlign=50&fontAlignY=50&color=transparent&text=Hi%20%F0%9F%91%8B%2C%20I'm%20David%20Pincha" width="100%" />
 
 <h3 align="center">IT Engineer | Full-Stack Developer | UI/UX Enthusiast</h3>
 <p align="center">📍 Quito, Ecuador 🇪🇨 | 🌍 Open to international opportunities</p>
 
+---
 
-<!-- AQUÍ VA TU FOTO -->
+<!-- AQUÍ VA TU FOTO (Borra el texto largo y pon tu link arrastrando la foto) -->
 <img align="right" height="150" src="https://github.com/user-attachments/assets/3f4fbbb3-0950-491d-a3bc-33f50cb6fb5e"  />
 
 ### 👨‍💻 About Me
@@ -22,7 +23,7 @@ I'm an IT Engineer who loves building scalable software from the database layer 
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevIdLabs&show_icons=true&title_color=5caca4&icon_color=5caca4&text_color=c9d1d9&bg_color=0D1117&hide_border=true" height="165" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevIdLabs&show_icons=true&title_color=5caca4&icon_color=5caca4&text_color=c9d1d9&bg_color=0D1117&hide_border=true&cache_seconds=86400" height="165" alt="github stats" />
   <img src="https://streak-stats.demolab.com?user=DevIdLabs&locale=en&mode=daily&ring=5caca4&fire=5caca4&currStreakNum=5caca4&sideNums=5caca4&currStreakLabel=5caca4&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117&hide_border=true&border_radius=5" height="165" alt="streak graph" />
 </div>
 
