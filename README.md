@@ -1,13 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=5caca4&fontAlign=50&fontAlignY=50&color=transparent&text=Hi%20%F0%9F%91%8B%2C%20I'm%20David%20Pincha" width="100%" />
 
+<br/>
+
+<!-- TU FOTO CENTRADA Y MÁS GRANDE -->
+<div align="center">
+  <img height="250" src="https://github.com/user-attachments/assets/bc78dbbe-9a6e-40cf-b92c-c12788424a5e" alt="David Pincha" />
+</div>
+
 <h3 align="center">IT Engineer | Full-Stack Developer | UI/UX Enthusiast</h3>
 <p align="center">📍 Quito, Ecuador 🇪🇨 | 🌍 Open to international opportunities</p>
+
 
 ---
 
 
-<!-- AQUÍ VA TU FOTO (Borra el texto largo y pon tu link arrastrando la foto) -->
-<img align="right" height="150" src="https://github.com/user-attachments/assets/bc78dbbe-9a6e-40cf-b92c-c12788424a5e"  />
+
 
 ### 👨‍💻 About Me
 I'm an IT Engineer who loves building scalable software from the database layer all the way up to the pixel-perfect UI. I have a deep passion for understanding how things work under the hood—whether it's an enterprise database or the physical hardware components of a machine.
@@ -24,10 +31,9 @@ I'm an IT Engineer who loves building scalable software from the database layer 
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevIdLabs&locale=en&mode=daily&ring=5caca4&fire=5caca4&currStreakNum=5caca4&sideNums=5caca4&currStreakLabel=5caca4&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117&hide_border=true&border_radius=5&v=3" height="165" alt="streak graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=DevIdLabs&layout=compact&title_color=5caca4&text_color=c9d1d9&bg_color=0D1117&hide_border=true&v=3" height="165" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=DevIdLabs&locale=en&mode=daily&ring=5caca4&fire=5caca4&currStreakNum=5caca4&sideNums=5caca4&currStreakLabel=5caca4&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117&hide_border=true&border_radius=5&v=4" height="165" alt="streak graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=DevIdLabs&layout=compact&title_color=5caca4&text_color=c9d1d9&bg_color=0D1117&hide_border=true&hide_title=true&v=4" height="165" alt="languages graph" />
 </div>
-
 
 
 <!-- Arcade Game -->
