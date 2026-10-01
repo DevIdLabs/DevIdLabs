@@ -20,7 +20,7 @@ I'm an IT Engineering student and Software Developer who loves building scalable
 
 ### 💼 Experience
 
-**Junior Software Developer** *(Remote)*
+**Software Developer - U.S. Consulting Firm** *(Remote)*
 - Actively developing and maintaining full-stack features for a comprehensive enterprise management platform.
 - Connecting complex user dashboards to backend GraphQL queries and managing scalable file storage architectures with AWS S3.
 - Implementing dynamic user workflows, including automated PDF certificate generation and secure social sharing features.
