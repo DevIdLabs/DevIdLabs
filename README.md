@@ -13,26 +13,25 @@
 I'm an IT Engineering student and Software Developer who loves building scalable software from the database layer all the way up to the pixel-perfect UI. I have a deep passion for understanding how things work under the hood, seamlessly moving between robust backend architectures and highly intuitive frontends.
 
 - 🚀 **What I do:** I develop enterprise applications using modern ecosystems (Java/Spring Boot, C#/.NET, React). My focus ranges from architecting API endpoints to optimizing PostgreSQL databases for complex performance.
-- 🎨 **My Philosophy:** A powerful backend deserves an exceptional user experience. My background as an entrepreneur managing graphic design, mockups, and visual branding for my own apparel brand (DOGRIAN) ensures I always keep UI/UX at the forefront of my development process.
+- 🎨 **My Philosophy:** A powerful backend deserves an exceptional user experience. My background managing graphic design, mockups, and visual branding for my own e-commerce venture ensures I always keep UI/UX at the forefront of my development process.
 - 📫 **Reach me at:** cpincha9@gmail.com
 
 <br clear="both"/>
 
 ### 💼 Experience
 
-**Junior Software Developer @ Carvajal Consultants Inc.** *(Remote)*
-- Actively developing and maintaining features for the **Upstat** platform.
-- Connecting complex user dashboards to backend GraphQL queries and managing file storage with AWS S3.
-- Implementing dynamic course completion workflows, including automated PDF certificate generation and social sharing features.
-- Integrating external services like Stripe for payment gateways and Klaviyo for notification pipelines.
+**Junior Software Developer** *(Remote)*
+- Actively developing and maintaining full-stack features for a comprehensive enterprise management platform.
+- Connecting complex user dashboards to backend GraphQL queries and managing scalable file storage architectures with AWS S3.
+- Implementing dynamic user workflows, including automated PDF certificate generation and secure social sharing features.
+- Integrating external services such as Stripe for payment gateways and Klaviyo for robust notification pipelines.
 
 ### 🚀 Featured Projects
 
-- **HablaPicto (ProyectoTEA):** An accessibility-focused web application built with **ASP.NET Core MVC** and **SQL Server**. It integrates the ARASAAC API to automatically transcribe text into pictograms, designed specifically to assist children with Autism Spectrum Disorder (ASD).
+- **Accessibility Educational Platform:** A specialized web application built with **ASP.NET Core MVC** and **SQL Server**. It integrates external APIs to automatically transcribe text into pictograms, designed specifically to assist children with communication and learning needs in educational environments.
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <!-- Agregué Java, Spring, C#, .NET y Python a tus lenguajes -->
   <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nextjs,nodejs,java,spring,cs,dotnet,python,postgres,graphql,aws,docker,figma" height="45" alt="Tech Stack" />
 </p>
 
