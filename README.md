@@ -1,37 +1,45 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=50&color=5eaba4&text=Hi,%20I'm%20David%20Pincha" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=50&color=5eaba4&text=Hi,%20I'm%20Cristian%20David" width="100%" />
 
-
-
-<h3 align="center">IT Engineer | Full-Stack Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | UI/UX Enthusiast</h3>
 <p align="center">📍 Quito, Ecuador 🇪🇨 | 🌍 Open to international opportunities</p>
-
 
 ---
 
 ### 👨‍💻 About Me
 
 <!-- La imagen a la derecha con 'hspace' creando un escudo invisible de 30px -->
-<img align="right" width="300" hspace="30" vspace="10" src="https://github.com/user-attachments/assets/bc78dbbe-9a6e-40cf-b92c-c12788424a5e" alt="David Pincha" />
+<img align="right" width="300" hspace="30" vspace="10" src="https://github.com/user-attachments/assets/bc78dbbe-9a6e-40cf-b92c-c12788424a5e" alt="Cristian David Pincha" />
 
-I'm an IT Engineer who loves building scalable software from the database layer all the way up to the pixel-perfect UI. I have a deep passion for understanding how things work under the hood—whether it's an enterprise database or the physical hardware components of a machine.
+I'm an IT Engineering student and Software Developer who loves building scalable software from the database layer all the way up to the pixel-perfect UI. I have a deep passion for understanding how things work under the hood, seamlessly moving between robust backend architectures and highly intuitive frontends.
 
-- 🚀 **What I do:** I develop robust enterprise applications. Recently, I've integrated **Stripe payment gateways**, built automated **AI translation pipelines**, managed **Klaviyo notification systems**, and optimized PostgreSQL databases for complex statistics and performance.
-- 🎨 **My Philosophy:** A powerful backend deserves an exceptional user experience. I always keep UI/UX at the forefront of my development process.
+- 🚀 **What I do:** I develop enterprise applications using modern ecosystems (Java/Spring Boot, C#/.NET, React). My focus ranges from architecting API endpoints to optimizing PostgreSQL databases for complex performance.
+- 🎨 **My Philosophy:** A powerful backend deserves an exceptional user experience. My background as an entrepreneur managing graphic design, mockups, and visual branding for my own apparel brand (DOGRIAN) ensures I always keep UI/UX at the forefront of my development process.
 - 📫 **Reach me at:** cpincha9@gmail.com
 
 <br clear="both"/>
 
+### 💼 Experience
+
+**Junior Software Developer @ Carvajal Consultants Inc.** *(Remote)*
+- Actively developing and maintaining features for the **Upstat** platform.
+- Connecting complex user dashboards to backend GraphQL queries and managing file storage with AWS S3.
+- Implementing dynamic course completion workflows, including automated PDF certificate generation and social sharing features.
+- Integrating external services like Stripe for payment gateways and Klaviyo for notification pipelines.
+
+### 🚀 Featured Projects
+
+- **HablaPicto (ProyectoTEA):** An accessibility-focused web application built with **ASP.NET Core MVC** and **SQL Server**. It integrates the ARASAAC API to automatically transcribe text into pictograms, designed specifically to assist children with Autism Spectrum Disorder (ASD).
+
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nextjs,nodejs,postgres,graphql,aws,docker,figma" height="45" alt="Tech Stack" />
+  <!-- Agregué Java, Spring, C#, .NET y Python a tus lenguajes -->
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nextjs,nodejs,java,spring,cs,dotnet,python,postgres,graphql,aws,docker,figma" height="45" alt="Tech Stack" />
 </p>
 
 ### 📈 GitHub Analytics
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DevIdLabs&locale=en&mode=daily&ring=5caca4&fire=5caca4&currStreakNum=5caca4&sideNums=5caca4&currStreakLabel=5caca4&sideLabels=c9d1d9&dates=c9d1d9&background=0D1117&hide_border=true&border_radius=5" height="165" alt="streak graph" />
 </div>
-
-
 
 <!-- Arcade Game -->
 <div align="center">
