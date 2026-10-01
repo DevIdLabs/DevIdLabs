@@ -32,7 +32,7 @@ I'm an IT Engineering student and Software Developer who loves building scalable
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nextjs,nodejs,java,spring,cs,dotnet,python,postgres,graphql,aws,docker,figma" height="45" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nextjs,nodejs,java,spring,cs,dotnet,python,postgres,graphql,aws,docker,figma" height="65" alt="Tech Stack" />
 </p>
 
 ### 📈 GitHub Analytics
